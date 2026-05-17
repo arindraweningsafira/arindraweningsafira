@@ -1,10 +1,9 @@
-# Halo, saya Arindra Wening Safira🗺️
+# Hello, i'm Arindra Wening Safira🗺️
 
 > Geospatial & Spatial Analytics · Python · GIS · Digital Photogrammetry · Remote Sensing
 
-## 🛰️ Tentang Saya
-Saya berfokus pada analisis data spasial dan pemodelan geospasial.
-Tertarik pada bidang IT, machine learning, dan GIS.
+## 🛰️ About Me
+I specialize in spatial data analysis and geospatial modeling, with a keen interest in leveraging IT, machine learning, and GIS technologies to drive data-driven solutions.
 
 ## 🧰 Tech Stack
 <!-- Hapus yang tidak kamu kuasai -->
@@ -17,7 +16,7 @@ Tertarik pada bidang IT, machine learning, dan GIS.
 `GeoPandas` · `Shapely` · `Rasterio` · `Fiona` · `Folium`
 `PyProj` · `Xarray` · `Leafmap` · `GDAL` · `Scikit-learn`
 
-## 🚀 Proyek Unggulan
+## 🚀 Projects
 
 | Proyek | Deskripsi | Tech |
 |--------|-----------|------|
