@@ -21,12 +21,10 @@ Tertarik pada bidang IT, machine learning, dan GIS.
 
 | Proyek | Deskripsi | Tech |
 |--------|-----------|------|
-| [Supervised Classification](https://code.earthengine.google.com/ebb99e12a55db2b0935f6076aa5a0edb) | Klasifikasi penggunaan lahan dari citra Sentinel-2 menggunakan machine learning | Python, Rasterio, sklearn |
 | [Dashboard Visualisasi Gaya Berat](bit.ly/StoryMapsVisualisasiGayaBerat) | Visualisasi Gayaberat Variasi Waktu Berbasis Web  | ArcGIS Storymaps, ArcGIS Online |
+| [Supervised Classification](https://code.earthengine.google.com/ebb99e12a55db2b0935f6076aa5a0edb) | Klasifikasi penggunaan lahan dari citra Sentinel-2 menggunakan machine learning | Python, Rasterio, sklearn |
 
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arindraweningsafira&show_icons=true&theme=tokyonight&hide_border=true)
 
 ## 📫 Kontak
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/arindra-wening-safira/)
